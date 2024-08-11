@@ -1,0 +1,6 @@
+.match-card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+}
